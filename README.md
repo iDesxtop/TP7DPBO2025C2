@@ -64,4 +64,5 @@ Kita dapat mencari data dengan keywords, biasanya dicari dengan Nama atau Deskri
 ![search](https://github.com/user-attachments/assets/524827b9-ad2e-47fb-80e2-b34e35519630)
 
 ## Video
-https://github.com/user-attachments/assets/21446e8c-ebf0-4d17-9430-cf53fbe3011b
+https://github.com/user-attachments/assets/21446e8c-ebf0-4d17-9430-cf53fbe3011b  
+https://drive.google.com/file/d/1rVDip_VlYwpQDtRTUg4BmoOjtahG9tNs/view?usp=sharing
